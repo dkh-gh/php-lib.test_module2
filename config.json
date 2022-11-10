@@ -1,0 +1,12 @@
+{
+	"name": "test_module2",
+	"version": 0,
+	"source": ["github", "dkh-gh/php-lib.test_module2", "main"],
+	"requirements": [
+	],
+	"structure": [
+		"test_module2.php",
+		"config.json"
+	],
+	"include_needed": false
+}
