@@ -1,6 +1,6 @@
 {
 	"name": "test_module2",
-	"version": 1,
+	"version": 1.11,
 	"source": {
 		"source": "github", 
 		"url": "dkh-gh/php-lib.test_module2", 
@@ -11,7 +11,7 @@
 		"test_module2.php",
 		"config.json"
 	],
-	"include_needed": false,
+	"include_needed": true,
 	"developers": {
 		"creator": {
 			"name": "dkh"
